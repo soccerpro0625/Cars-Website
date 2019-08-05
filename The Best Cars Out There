@@ -1,5 +1,13 @@
 <!DOCTYPE html>
+<html>
+  
+<head>
+  <title>The Best Cars Out There<title/>
+</head>
+
 <body>
-  <h1>The Best Cars Out There</h1> 
+  <nav>
+    <a href="./The Best Cars Out There">Info</a>
+    <a href="./About The Author">
   
   
