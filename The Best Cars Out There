@@ -2,12 +2,17 @@
 <html>
   
 <head>
-  <title>The Best Cars Out There<title/>
-</head>
-
-<body>
-  <nav>
-    <a href="./The Best Cars Out There">Info</a>
-    <a href="./About The Author">
+  <title>Best and Worst Vehicles Out There</title> 
+  <p style= "color: blue ; font-size: 50 px> Whether you are trying to buy a pickup, SUV, or car, this website tells the safest and least safest vehicles divided by types of 
+  vehicles</p>
   
+  <h1><i>The Safest and Least Safest Cars</i></h1>
+  <p><strong>Safest</strong></p>
+ <ol>2019 Tesla Model 3: Starting at $35,000</ol>
+ <ol>2019 Audi S3: Starting at $43,000</ol>
+ <ol>2019 Toyota Camry Hybrid: Starting at $28,250</ol>
+ <ol>2019 Honda Fit: Starting at $16,190</ol>
+ 
+ <p><strong>Least Safest</strong></p>
+ <ol>
   
